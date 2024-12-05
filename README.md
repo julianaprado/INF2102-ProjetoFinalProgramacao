@@ -40,18 +40,17 @@ O professor Luiz quer gerar um modelo treinado de reconhecimento de tom de pele 
 O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele e decide utilizar este projeto. Fazendo o download do projeto, e optando por utilizar o Google Colab da forma como foi descrita aqui, ele aperta "Run All" mas esqueceu de passar a pasta dos dados para seu drive, na pasta My Drive, corretamente gerando erros.
 
 ## Manual de Utilização para Usuários Contemplados
-
-{ 
-  Guia de Instruções:
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  Para Baixar o Projeto faça:
-  Passo 1: selecione
-  Passo 2: ...
-  ...
-  Passo N: ...
-
-  >>> Se houver diferentes maneiras de realizar a Tarefa A, descreva cada uma delas.
-  >>> E se em certos contextos, uma alternativa for melhor que outra, informe e explique.
+ 
+  ### Guia de Instruções:
+  #### Para Baixar o Projeto faça:
+  - Passo 1: Estando dentro do repositório
+  - Passo 2: Selecione o botao "Code"
+  - Passo 3: Baixe o .zip.
+  
+  #### Para Baixar o banco de dados utilizado no projeto Projeto faça:
+  - Passo 1: Acesse este link
+  - Passo 2: Selecione o botao "Code"
+  - Passo 3: Baixe o .zip.
 
   Exceções ou potenciais problemas:
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -65,7 +64,6 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
   Se [Condição Prevista C2: ... 
   ...
   Se [Condição Prevista CN: ...      
-}
 
 >>> Repita a estrutura do Guia acima para cada tarefa e função básica.
 
