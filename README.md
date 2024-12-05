@@ -63,7 +63,6 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
 
 #### Sobre o Código
 - Linguagem escolhida foi Python, utilizando TensorFlow/Keras para construção e treinamento do modelo.
-- Comentários em linha explicam funções críticas.
 - Documentação de classes e funções.
 
 #### Técnicas Utilizadas
