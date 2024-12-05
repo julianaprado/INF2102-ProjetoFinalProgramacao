@@ -73,10 +73,13 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
   ### Exceções ou potenciais problemas:
   
   Caso fique muito tempo sem atividade no notebook:
-     Então faça: [Para rodar o projeto faça](#para-rodar-o-projeto-faça). 
+  - O notebook irá parar de rodar, então faça: [Para rodar o projeto faça](#para-rodar-o-projeto-faça). 
 
- Caso não encontre a pasta com database:
-     Então faça: [Para Baixar o banco de dados utilizado no projeto faça](#para-baixar-o-banco-de-dados-utilizado-no-projeto-faça). 
+ Caso dê erro de que não foi possível encontrar a pasta com o database:
+  - Então faça: [Para Baixar o banco de dados utilizado no projeto faça](#para-baixar-o-banco-de-dados-utilizado-no-projeto-faça).
+
+  Caso ao rodar tudo, chegue na útlima célula e quebre:
+  - Então faça: [Para visualizar os resultados](#para-visualizar-os-resultados).
 
 
 
