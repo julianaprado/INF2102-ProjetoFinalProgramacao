@@ -56,14 +56,27 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
 #### Modelo de Arquitetura
 - A entrada são imagens no tamanho de 256x256 pixels.
 
-- Pré-Processamento:
+- Pré-Processamento
     - Pré-processamento das imagens com normalização, redimensionamento e augmentation.
     - Modelo baseado em EfficientNetB3 para extração de características e estimativa de cores de pele.
     - RGB normalizado (valores entre 0 e 1) correspondente ao tom de pele detectado.
 
+#### Sobre o Código
+- Linguagem escolhida foi Python, utilizando TensorFlow/Keras para construção e treinamento do modelo.
+- Comentários em linha explicam funções críticas.
+- Documentação de classes e funções.
+
+#### Técnicas Utilizadas
+- Implementação de camadas personalizadas para funções de perda (MSE penalizado).
+-  Treinamento com augmentação de dados para melhorar o desempenho do modelo.
+
+#### Diretivas de Execução:
+- Suporte para execução em nuvem (Google Colab).
+- Configuração automática de GPUs para otimizar desempenho
+
 ## Manual de Utilização para Usuários Contemplados
  
-  ### Guia de Instruções:
+  ### Guia de Instruções
   
   #### Para poder utilizar este projeto:
   - Passo 1: Tenha uma conta no google.
