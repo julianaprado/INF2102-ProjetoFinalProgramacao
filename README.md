@@ -39,6 +39,28 @@ O professor Luiz quer gerar um modelo treinado de reconhecimento de tom de pele 
 
 O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele e decide utilizar este projeto. Fazendo o download do projeto, e optando por utilizar o Google Colab da forma como foi descrita aqui, ele aperta "Run All" mas esqueceu de passar a pasta dos dados para seu drive, na pasta My Drive, corretamente gerando erros.
 
+## Documentação Técnica do Projeto
+
+### Especificação de Requisitos Funcionais e Não-Funcionais do Software
+
+#### Requisitos Funcionais
+
+- O programa deve identificar tons de pele em imagens, mesmo sob condições variadas de iluminação.
+- Oferece funções para treinamento de modelos e inferência em imagens.
+
+#### Requisitos Não-Funcionais
+
+- O sistema deve ser compatível com GPUs para que o treinamento e inferência sejam feitos de forma rápida.
+- O modelo deve alcançar uma precisão onde o MAE deve ser menor que 0.12.
+
+#### Modelo de Arquitetura
+- A entrada são imagens no tamanho de 256x256 pixels.
+
+- Pré-Processamento:
+    - Pré-processamento das imagens com normalização, redimensionamento e augmentation.
+    - Modelo baseado em EfficientNetB3 para extração de características e estimativa de cores de pele.
+    - RGB normalizado (valores entre 0 e 1) correspondente ao tom de pele detectado.
+
 ## Manual de Utilização para Usuários Contemplados
  
   ### Guia de Instruções:
