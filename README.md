@@ -68,7 +68,7 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
   #### Para visualizar os resultados:
   - Passo 1: Após treinamento, o modelo é salvo dentro do seu Drive na pasta data > results > training > PASTA EM FORMATO: execution_AAAA_MM_DD_HH_MM_SS_PM ou AM (exemplo: execution_2024_12_02_23_39_20_PM).
   - Passo 2: Caso queira apenas baixar o modelo, é possível baixar o modelo que se encontra nesta pasta.
-  - Passo 3: Caso queira validar e avaliar o modelo dentro do Notebook, é preciso trocar o nome da variável *modelSaved* (que se encontra dentro das duas funções da seção Evaluation and Validation) para o nome da pasta no Passo 1.
+  - Passo 3: Caso queira validar e avaliar o modelo dentro do Notebook, é preciso trocar o nome da variável *modelSaved* para o nome da pasta no Passo 1 (essa variável se encontra dentro das duas funções da seção *Evaluation and Validation*).
 
   ### Exceções ou potenciais problemas:
   
