@@ -42,14 +42,17 @@ O professor Paulo quer gerar um modelo treinado de reconhecimento de tom de pele
 ## Manual de Utilização para Usuários Contemplados
  
   ### Guia de Instruções:
-  #### Para Baixar o Projeto faça:
-  - Passo 1: Estando dentro do repositório
-  - Passo 2: Selecione o botao "Code"
+  #### Para poder utilizar este projeto:
+  - Passo 1: Tenha uma conta no google.
+
+  #### Para Baixar o projeto faça:
+  - Passo 1: Estando dentro do repositório.
+  - Passo 2: Selecione o botao "Code".
   - Passo 3: Baixe o .zip.
   
-  #### Para Baixar o banco de dados utilizado no projeto Projeto faça:
-  - Passo 1: Acesse este link
-  - Passo 2: Selecione o botao "Code"
+  #### Para Baixar o banco de dados utilizado no projeto faça:
+  - Passo 1: Acesse este link [data.zip](https://drive.google.com/file/d/1RfgX7bfDt06fNO6TjDxcSEKvz_jFXw3z/view?usp=sharing).
+  - Passo 2: Selecione o botao "Code".
   - Passo 3: Baixe o .zip.
 
   Exceções ou potenciais problemas:
